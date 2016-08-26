@@ -1,0 +1,9 @@
+Package: com.sanil.helloworld
+Name: HelloWorld
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Sanil
+Author: Sanil
+Section: Tweaks
